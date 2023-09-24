@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/mujeebahme74879" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mujeebahme74879?logo=twitter&style=for-the-badge" alt="https://twitter.com/mujeebahme74879" /></a> </p>
-
 - 🌱 I’m currently learning **State Management in flutter**
 
 - 📫 How to reach me **mujeebahmed150@outlook.com**
