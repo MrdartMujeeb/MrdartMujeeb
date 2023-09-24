@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mujeeb Ahmed</h1>
 <h3 align="center">A passionate Software Developer from Pakistan</h3>
 
-<img align="right"alt"coding"width="400"src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/mujeebahme74879" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/mujeebahme74879?logo=twitter&style=for-the-badge" alt="https://twitter.com/mujeebahme74879" /></a> </p>
 
